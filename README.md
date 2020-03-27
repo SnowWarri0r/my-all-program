@@ -1,2 +1,2 @@
 # my-all-program
-Here will record all my project and study
+Here will record all my projects and study
